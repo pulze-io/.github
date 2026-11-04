@@ -4,7 +4,7 @@
 
 # Pulze
 
-Scene management, network rendering and AI for 3D production.
+The production toolkit for 3D: render farm management, AI and workflow tools, made by 3D artists.
 
 We started as 3D artists building tools for our own studio work. Today Pulze makes three products for visualization, VFX and animation teams.
 
