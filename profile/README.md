@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/banner.png" alt="Pulze: the production toolkit for 3D. RenderFlow, Project Dream and Scene Manager." width="100%">
+  <img src="./banner.png" alt="Pulze: the production toolkit for 3D. RenderFlow, Project Dream and Scene Manager." width="100%">
 </p>
 
 # Pulze
