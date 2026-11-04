@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile/banner.png" alt="Pulze: the production toolkit for 3D. RenderFlow, Project Dream and Scene Manager." width="100%">
+</p>
+
 # Pulze
 
 Scene management, network rendering and AI for 3D production.
@@ -30,6 +34,23 @@ Scene states and batch rendering for 3ds Max. Save cameras, lights, objects and 
 - [Tutorials](https://www.pulze.io/tutorials)
 - [Blog](https://www.pulze.io/blog)
 - [FAQs](https://www.pulze.io/faqs)
+
+## For developers
+
+RenderFlow has a REST API, TypeScript and Python SDKs, a command line tool and webhooks. Everything in the interface is also available to your pipeline.
+
+- [Getting started](https://docs.pulze.io/renderflow/developers/overview): which way to connect your code, and where to begin
+- [REST API](https://docs.pulze.io/renderflow/developers/rest-api) and the [API reference](https://docs.pulze.io/renderflow/api-reference/introduction)
+- [Cookbook](https://docs.pulze.io/renderflow/developers/cookbook): submit and wait, requeue failures, pull frames
+- [MCP server](https://docs.pulze.io/renderflow/developers/mcp-server): connect Claude or any MCP client to your farm
+
+## For AI assistants
+
+Product facts and documentation in plain text:
+
+- [pulze.io/llms.txt](https://www.pulze.io/llms.txt): products, links and how to reach the team
+- [docs.pulze.io/llms.txt](https://docs.pulze.io/llms.txt): documentation index
+- [docs.pulze.io/llms-full.txt](https://docs.pulze.io/llms-full.txt): full documentation
 
 ## Talk to us
 
