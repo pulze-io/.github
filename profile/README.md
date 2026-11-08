@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./banner.png" alt="Pulze: the production toolkit for 3D. RenderFlow, Project Dream and Scene Manager." width="100%">
+  <img src="./banner.png" alt="Pulze: rendering, AI and workflow tools for 3D production. RenderFlow, Project Dream, Scene Manager and LayerWise." width="100%">
 </p>
 
 # Pulze
 
-The production toolkit for 3D: render farm management, AI and workflow tools, made by 3D artists.
+Rendering, AI and workflow tools for 3D production. Manage your render farm, create with AI and work faster in your 3D apps, from scene setup to the final image. Made by 3D artists, for 3D artists.
 
-We started as 3D artists building tools for our own studio work. Today Pulze makes three products for visualization, VFX and animation teams.
+We started as 3D artists building tools for our own studio work. Today Pulze makes four products for visualization, VFX and animation teams.
 
 ## Products
 
@@ -18,7 +18,7 @@ A render farm manager that runs on your own machines and scales into your own Az
 - [Pricing](https://www.pulze.io/pricing/renderflow): monitoring and management are free, with one licence per render machine
 
 ### [Project Dream](https://www.pulze.io/products/project-dream)
-Image and video AI fine-tuned for visualization specialists and architects. Generate, edit, upscale and animate from your renders, with plugins for 3ds Max, Revit, Rhino, SketchUp and Photoshop, or in the browser.
+Image and video AI fine-tuned for visualization specialists and architects. Generate, edit, upscale and animate from your renders, with plugins for 3ds Max, Maya, Blender, Cinema 4D, Revit, Rhino, SketchUp and Photoshop, or in the browser.
 
 - [Pricing](https://www.pulze.io/pricing/project-dream)
 
@@ -27,6 +27,11 @@ Scene states and batch rendering for 3ds Max. Save cameras, lights, objects and 
 
 - [Pricing](https://www.pulze.io/pricing/scene-manager): free tier, Pro and Enterprise
 - [Workflow Bundle](https://www.pulze.io/pricing/workflow-bundle): Scene Manager and RenderFlow together
+
+### [LayerWise](https://docs.pulze.io/layerwise)
+A free Photoshop plugin that builds one layered PSD from your render elements and swaps in new renders without losing your edits.
+
+- [Download](https://account.pulze.io/products/layerwise): free with a Pulze account
 
 ## Resources
 
