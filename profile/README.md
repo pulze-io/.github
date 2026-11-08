@@ -28,7 +28,7 @@ Scene states and batch rendering for 3ds Max. Save cameras, lights, objects and 
 - [Pricing](https://www.pulze.io/pricing/scene-manager): free tier, Pro and Enterprise
 - [Workflow Bundle](https://www.pulze.io/pricing/workflow-bundle): Scene Manager and RenderFlow together
 
-### [LayerWise](https://docs.pulze.io/layerwise)
+### [LayerWise](https://www.pulze.io/products/layerwise)
 A free Photoshop plugin that builds one layered PSD from your render elements and swaps in new renders without losing your edits.
 
 - [Download](https://account.pulze.io/products/layerwise): free with a Pulze account
